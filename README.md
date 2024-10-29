@@ -1,5 +1,7 @@
 # Knight-Moves-6
-A solution Jane Street October 2024s puzzle
+A solution Jane Street October 2024s puzzle. It aims to find the smallest valid sum of A+B+C as quickly as possible with no care for its shortest/smallest path.
+
+## Code Output
 
 ## The Puzzle
 ### Knight Moves 6
