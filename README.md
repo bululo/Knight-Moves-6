@@ -22,6 +22,7 @@ The “score” for a trip is calculated as follows:
   - Every time you make a move:
     - if your move is between two *different* integers, **multiply** your score by the value you are moving to;
     - otherwise, **increment** your score by the value you are moving to.
+
 Can you find positive integers *A*, *B*, and *C*, as well as a pair of trips, that satisfy the criteria above? How low can you get *A* + *B* + *C*?
 
 Please format your entry by concatenating your values for A, B, and C, followed by your *a1*-to-*f6* tour, followed by your *a6*-to-*f1* tour. For example, “1,2,253,a1,b3,c5,d3,f4,d5,f6,a6,c5,a4,b2,c4,d2,f1” would be a properly formatted entry.
