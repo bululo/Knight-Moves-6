@@ -1,5 +1,5 @@
 # Knight-Moves-6
-A solution to Jane Street's October 2024 puzzle. It aims to efficiently find the smallest valid sum of A+B+C as quickly as possible with no care for its shortest path. The code can be tweaked to find the shortest path if desired but it heavily increases the computation time.
+A solution to Jane Street's October 2024 puzzle. It aims to efficiently find the smallest valid sum of A+B+C as quickly as possible with no care for its shortest path. The code can be tweaked to find the shortest path if desired but it significantly increases the computation time in doing so.
 
 ## Code Output
 <p align="center">
