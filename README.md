@@ -3,8 +3,9 @@ A solution Jane Street October 2024s puzzle. It aims to find the smallest valid 
 
 ## Code Output
 <p align="center">
-  <img src="output.png" />
+  <img src="output.png"/>
 </p>
+
 ## The Puzzle
 ### Knight Moves 6
 <p align="center">
