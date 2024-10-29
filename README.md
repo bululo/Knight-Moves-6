@@ -3,7 +3,9 @@ A solution Jane Street October 2024s puzzle
 
 ## The Puzzle
 ### Knight Moves 6
-![Puzzle Image.](https://www.janestreet.com/puzzles/october-2024.png)
+<p align="center">
+  <img src="https://www.janestreet.com/puzzles/october-2024.png" />
+</p>
 
 Pick **distinct positive integers** *A*, *B*, and *C*, and place them in the grid above. Your goal is to create two corner-to-corner trips — one from *a1* to *f6*, and the other from *a6* to *f1* — both of which score **exactly 2024 points**.
 
