@@ -8,6 +8,7 @@ A solution to Jane Street's October 2024 puzzle. It aims to efficiently find the
 
 ## The Puzzle
 ### Knight Moves 6
+From [https://www.janestreet.com/puzzles/knight-moves-6-index/](https://www.janestreet.com/puzzles/knight-moves-6-index/)
 <p align="center">
   <img src="https://www.janestreet.com/puzzles/october-2024.png" />
 </p>
